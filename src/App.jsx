@@ -10,6 +10,7 @@ function App() {
         </p>
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
+          <h1>Welcome Mrs. Pattrira.T to react World</h1>
         </p>
         <p>
           <a
