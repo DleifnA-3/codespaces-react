@@ -14,6 +14,7 @@ const Counter = ()=>{
         <h3>{parseFloat(value)}$ to {(value * 33.55).toFixed(2)} baht</h3>
         <button onClick={() => setValue("")}>reset</button>
         <button onClick={() => setValue(value * 33.55)}>exchange</button>
+        <img src="/Octocat.png"/>
     </>);
 }
 
